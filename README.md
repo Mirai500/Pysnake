@@ -1,5 +1,7 @@
 Pysnake
 
+![Screenshot (2)](https://github.com/Mirai500/Pysnake/assets/99570128/52e4c5ee-6604-4c54-bbf8-02d15de477db)
+
 This is a snake game written in python.
 For more information, visit http://asifatumahbub001.wixsite.com/ppysnake
 https://linkedin.com/in/mahbub-asifatu-0887a4225
